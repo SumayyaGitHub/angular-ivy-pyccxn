@@ -1,6 +1,4 @@
-/* Add application styles & imports to this file! */
-
-@import url('https://fonts.googleapis.com/css?family=Muli:300,400,600&display=swap');
+/* Add application styles...... */
 
 body {
   font-family: 'Muli', sans-serif;
@@ -9,4 +7,7 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0px;
+  text-align: center;
+  border: 15px solid rgb(9, 103, 211);
+  color: rgb(9, 103, 211);
 }
